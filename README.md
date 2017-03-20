@@ -1,7 +1,7 @@
 # Mini_ex6
 https://cdn.rawgit.com/Kevintonn/Mini_ex6/30deca35/index.html
 
-![Alt text](http://http://i.imgur.com/rwtemPC.jpg?raw=true "Screen Shot")
+![Alt text](http://i.imgur.com/rwtemPC.jpg raw=true "Screen Shot")
 
 Title: Alien symbol generator
 
